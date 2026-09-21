@@ -2,20 +2,21 @@
 
 ## Protagonista
 
-**Nome canônico/placeholder:** A definir  
+**Nome canônico masculino:** Sun  
+**Nome canônico feminino:** Moon  
 **Sexo:** selecionável pelo jogador (masculino ou feminino)  
 **Cidade natal:** Terrae  
 **Objetivo inicial:** iniciar sua jornada Pokémon  
 **Papel na história:** investigar os movimentos da Equipe Void enquanto avança pela Liga Pokémon  
 **Inicial:** escolha entre Gible, Impidimp ou Shinx  
 
-Assim como nos jogos oficiais de Pokémon, o protagonista terá uma identidade padrão/canônica para referência interna e divulgação, mesmo que o jogador possa escolher o nome durante a aventura.
-
-Os nomes canônicos das versões masculina e feminina ainda serão definidos.
+Assim como nos jogos oficiais de Pokémon, o jogador poderá escolher o nome do protagonista, mas **Sun** e **Moon** funcionarão como os nomes canônicos das versões masculina e feminina.
 
 ## Rivais
 
 Pokémon Eclipse terá **dois rivais principais**, Charlie e Lina. Diferente do modelo clássico em que o rival escolhe um dos Pokémon restantes do laboratório, ambos já começam a história acompanhados de seus próprios parceiros.
+
+Os dois iniciam a jornada com o mesmo grande objetivo: **tornar-se Campeão ou Campeã da Liga Pokémon**. Com o avanço da aventura, porém, a rivalidade esportiva deixa de ser o único foco. Ao descobrirem os planos da Equipe Void, Charlie e Lina passam a ajudar Sun/Moon diretamente na luta contra a organização.
 
 ### Charlie
 
@@ -23,35 +24,51 @@ Pokémon Eclipse terá **dois rivais principais**, Charlie e Lina. Diferente do 
 **Personalidade:** muito animado e entusiasmado  
 **Pokémon parceiro:** Riolu  
 **Origem do parceiro:** Riolu foi presente de aniversário dado pelos pais de Charlie  
-**Relação com o protagonista:** A desenvolver  
-**Objetivo pessoal:** A desenvolver  
-**Papel na história:** rival recorrente e companheiro de jornada  
+**Objetivo pessoal:** tornar-se Campeão da Liga Pokémon  
+**Papel na história:** rival recorrente, companheiro de jornada e aliado contra a Equipe Void  
 
 Charlie começa sua aventura já com uma forte ligação afetiva com Riolu. Seu parceiro não foi escolhido apenas para competir: ele faz parte de sua história familiar e deverá acompanhar sua evolução ao longo da campanha.
+
+Sua jornada começa movida pela competição e pelo sonho de conquistar a Liga. Conforme entende a dimensão dos planos da Equipe Void, Charlie passa a colocar a proteção de Solaria acima da disputa pelo título e ajuda o protagonista a enfrentar a organização.
 
 ### Lina
 
 **Nome:** Lina  
 **Personalidade:** super animada e energética  
 **Pokémon parceiro:** Chikorita  
-**Relação com o protagonista:** A desenvolver  
-**Origem do parceiro:** A desenvolver  
-**Objetivo pessoal:** A desenvolver  
-**Papel na história:** rival recorrente e companheira de jornada  
+**Objetivo pessoal:** tornar-se Campeã da Liga Pokémon  
+**Papel na história:** rival recorrente, companheira de jornada e aliada contra a Equipe Void  
 
-Lina já inicia a história acompanhada por seu pequeno Chikorita, que será seu principal parceiro durante a aventura.
+#### Origem de Chikorita
+
+Chikorita nasceu do **primeiro Ovo Pokémon de Lina**, recebido quando ela ainda era criança.
+
+Lina cuidou de Chikorita desde o nascimento, mas nunca o submeteu a treinamento ou batalhas durante a infância. Quando finalmente atingiu a idade para iniciar sua própria jornada Pokémon, decidiu que Chikorita deixaria de ser apenas seu companheiro de infância e passaria a lutar ao seu lado como seu parceiro leal.
+
+Essa relação faz com que Chikorita represente uma amizade construída durante anos antes mesmo do início da aventura.
+
+Assim como Charlie, Lina começa a jornada determinada a conquistar a Liga. Ao descobrir o que a Equipe Void pretende fazer com os Pokémon lendários, ela se junta ao protagonista e a Charlie na luta contra a organização.
 
 ## Dinâmica inicial
 
 A configuração inicial dos três treinadores será:
 
-| Personagem | Pokémon inicial/parceiro |
-|---|---|
-| Protagonista | Gible, Impidimp ou Shinx |
-| Charlie | Riolu |
-| Lina | Chikorita |
+| Personagem | Pokémon inicial/parceiro | Objetivo inicial |
+|---|---|---|
+| Sun / Moon | Gible, Impidimp ou Shinx | Jornada Pokémon / Liga |
+| Charlie | Riolu | Tornar-se Campeão |
+| Lina | Chikorita | Tornar-se Campeã |
 
-Isso permite que Charlie e Lina tenham equipes e arcos próprios, sem depender da escolha feita pelo jogador no laboratório.
+Charlie e Lina possuem parceiros próprios e histórias independentes da escolha feita pelo jogador no laboratório.
+
+## Arco conjunto dos rivais
+
+A trajetória dos dois rivais terá duas fases principais:
+
+1. **Competição pela Liga** — Charlie e Lina funcionam como rivais recorrentes de Sun/Moon e perseguem o título de Campeão.
+2. **Conflito com a Equipe Void** — ao descobrirem o verdadeiro plano da organização, os dois passam a atuar como aliados do protagonista na tentativa de impedir o Caos do Eclipse.
+
+A rivalidade continuará existindo, mas deixa de ser mais importante que a ameaça enfrentada por Solaria.
 
 ## Professora Star
 
@@ -106,10 +123,13 @@ Os oito líderes já possuem conceitos definidos pelo autor e serão adicionados
 
 ## Próximos personagens a definir
 
-- [ ] Nomes canônicos do protagonista masculino e feminino
+- [x] Nomes canônicos do protagonista masculino e feminino
 - [x] Charlie
 - [x] Lina
+- [x] Objetivo inicial dos dois rivais
+- [x] Papel dos rivais contra a Equipe Void
 - [x] Professora Star
+- [ ] Relação pessoal de Sun/Moon com Charlie e Lina
 - [ ] Líder da Equipe Void
 - [ ] Administradores da Equipe Void
 - [ ] Líderes de ginásio
