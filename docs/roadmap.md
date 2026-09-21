@@ -16,10 +16,12 @@ Este documento acompanha a evolução do projeto em etapas pequenas e verificáv
 - [ ] Finalizar geografia da região
 - [x] Definir nome da região principal: Solaria
 - [x] Definir premissa da história
-- [ ] Definir protagonista
-- [ ] Definir rival
+- [ ] Finalizar protagonista (motivação e relações)
+- [x] Definir rivais Charlie e Lina
 - [x] Definir Professora Star
 - [x] Definir trio inicial
+- [x] Definir nomes canônicos Sun e Moon
+- [x] Definir parceiros e objetivos de Charlie e Lina
 - [x] Definir antagonistas principais
 - [x] Definir conceito do Eclipse
 - [x] Definir Terrae como cidade inicial
