@@ -89,20 +89,20 @@ A estrutura competitiva seguirá o formato tradicional:
 - Elite Four
 - Campeão/Campeã
 
-Os líderes, tipos, cidades e temas já possuem planejamento inicial e serão documentados separadamente.
+Os oito tipos e a ordem da Liga já estão definidos. Quatro Líderes possuem personagem, equipe, ACE, Ginásio e Insígnia documentados em [`docs/gyms.md`](gyms.md). As cidades restantes serão definidas junto ao mapa de Solaria.
 
 ## Ginásios
 
 | Ordem | Líder | Tipo | Cidade | Status |
 |---|---|---|---|---|
-| 1 | Definido fora do documento | Definido | A documentar | Planejado |
-| 2 | Definido fora do documento | Definido | A documentar | Planejado |
-| 3 | Definido fora do documento | Definido | A documentar | Planejado |
-| 4 | Definido fora do documento | Definido | A documentar | Planejado |
-| 5 | Definido fora do documento | Definido | A documentar | Planejado |
-| 6 | Definido fora do documento | Definido | A documentar | Planejado |
-| 7 | Definido fora do documento | Definido | A documentar | Planejado |
-| 8 | Definido fora do documento | Definido | A documentar | Planejado |
+| 1 | Élio | Voador | A definir | Definido |
+| 2 | A definir | Lutador | A definir | Equipe definida |
+| 3 | Sarah | Fada | A definir | Definido |
+| 4 | A definir | Sombrio | A definir | Equipe definida |
+| 5 | Alice | Gelo | Venusa | Definido |
+| 6 | A definir | Veneno | A definir | Equipe definida |
+| 7 | Yesta | Fantasma | A definir | Definido |
+| 8 | A definir | Psíquico | A definir | Equipe definida |
 
 ## Pokédex regional
 
