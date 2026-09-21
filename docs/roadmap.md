@@ -16,8 +16,10 @@ Este documento acompanha a evolução do projeto em etapas pequenas e verificáv
 - [ ] Finalizar geografia da região
 - [x] Definir nome da região principal: Solaria
 - [x] Definir premissa da história
-- [ ] Finalizar protagonista (motivação e relações)
+- [x] Definir protagonista Sun/Moon e sua motivação inicial
+- [x] Definir relação de infância entre Sun/Moon, Charlie e Lina
 - [x] Definir rivais Charlie e Lina
+- [x] Definir equipes finais de Charlie e Lina
 - [x] Definir Professora Star
 - [x] Definir trio inicial
 - [x] Definir nomes canônicos Sun e Moon
@@ -33,8 +35,8 @@ Este documento acompanha a evolução do projeto em etapas pequenas e verificáv
 - [ ] Criar mapa de Terrae
 - [ ] Criar laboratório da Professora Star
 - [ ] Implementar escolha do inicial
-- [ ] Criar primeiro encontro com o rival
-- [ ] Implementar primeira batalha
+- [ ] Criar primeiro encontro com Charlie e Lina
+- [ ] Implementar primeira batalha de rival
 - [ ] Criar primeira rota
 - [ ] Adicionar primeiros treinadores
 - [ ] Criar segunda cidade
