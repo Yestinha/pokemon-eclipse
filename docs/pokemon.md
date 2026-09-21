@@ -10,7 +10,39 @@ Pokémon Eclipse utilizará um trio inicial não tradicional:
 
 Os três são Pokémon oficiais.
 
-A lógica de escolha do rival e o balanceamento do trio ainda serão definidos antes da implementação.
+Charlie e Lina não escolhem um dos Pokémon restantes: eles já iniciam a história com seus parceiros de infância, Riolu e Chikorita.
+
+O balanceamento do trio do protagonista será definido antes da implementação das primeiras batalhas.
+
+## Pokémon dos rivais
+
+### Charlie
+
+Charlie começa com Riolu e mantém os mesmos membros ao longo da campanha, adicionando novos parceiros e evoluindo-os em momentos específicos.
+
+**Equipe final:**
+
+- Lucario
+- Gengar
+- Umbreon
+- Metagross
+- Toxtricity
+- Armarouge
+
+### Lina
+
+Lina começa com Chikorita, criado por ela desde que nasceu de seu primeiro Ovo Pokémon. Assim como Charlie, não substituirá membros da equipe durante a história.
+
+**Equipe final:**
+
+- Meganium
+- Espeon
+- Greninja
+- Goodra
+- Primarina
+- Mimikyu
+
+Os níveis, golpes, habilidades, itens e momentos exatos de captura/evolução serão definidos posteriormente para cada batalha de rival.
 
 ## Pokédex
 
