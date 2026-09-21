@@ -1,70 +1,134 @@
 # Região — Pokémon Eclipse
 
-Documento para planejar a região original do jogo.
+## Visão geral
 
-## Nome da região
+A região principal de **Pokémon Eclipse** se chama **Solaria**.
 
-_A definir._
+Solaria ocupa um grande continente de clima variado e combina ambientes naturais extremos com cidades modernas e tecnologia avançada. A sociedade foi construída para funcionar em harmonia com os Pokémon, mantendo uma estética atual/futurista sem abandonar a presença constante da natureza.
 
-## Conceito
+> **Nota de planejamento:** foi mencionada a ideia de duas regiões. Solaria está definida como a região principal; a estrutura e o nome de uma possível segunda região serão definidos posteriormente.
 
-_A definir._
+## Identidade
 
-## Inspirações
+**Nome:** Solaria  
+**Estrutura:** continente principal único  
+**Clima:** variado  
+**Estética:** moderna/futurista  
+**Tecnologia:** avançada, adaptada à convivência entre humanos e Pokémon  
+**Tom:** aventura tradicional com atmosfera misteriosa  
 
-_A definir._
+## Biomas
 
-## Identidade visual
+Solaria terá grande variedade ambiental:
 
-_A definir._
+- Florestas tradicionais
+- Praias
+- Picos nevados
+- Pântanos
+- Vulcão
+- Deserto
+- Ilhas
+- Florestas mal-assombradas
+- Cadeias de montanhas
+- **Ninho do Dragão**, localizado em meio às montanhas
 
-## Geografia
+Outros locais especiais serão definidos conforme o mapa da região evoluir.
 
-### Cidade inicial
-_A definir._
+## A lenda do Eclipse
 
-### Rotas
-_A definir._
+Existe em Solaria uma antiga lenda segundo a qual, durante um eclipse, Pokémon lendários se encontram e desencadeiam um fenômeno capaz de alterar completamente a região.
 
-### Florestas
-_A definir._
+> **“Existe uma lenda que diz que durante um eclipse a região de Solaria muda completamente de forma, onde o caos domina, e o combate entre as lendas é instaurado em seu ápice máximo.”**
 
-### Cavernas
-_A definir._
+Ao longo da história, o jogador descobre que essa lenda está diretamente ligada aos planos da **Equipe Void**.
 
-### Cidades principais
-_A definir._
+## Cidade inicial — Terrae
 
-### Áreas especiais
-_A definir._
+**Terrae** é uma pequena cidade com aproximadamente cinco casas e um laboratório Pokémon.
+
+Apesar do tamanho reduzido, possui tecnologia relativamente avançada graças a um antigo pesquisador que abandonou a vida em uma grande cidade para levar conhecimento e tecnologia às comunidades menores.
+
+### Marco central
+
+No centro de Terrae existe uma estátua de **Mega Rayquaza**.
+
+Na base da estátua está gravada a frase:
+
+> **“Alcance os céus.”**
+
+A estátua funciona como símbolo histórico e cultural da cidade e será um dos primeiros elementos marcantes apresentados ao jogador.
+
+### Elementos planejados
+
+- Aproximadamente cinco casas
+- Laboratório da Professora Star
+- Praça central
+- Estátua de Mega Rayquaza
+- Caminho para a primeira rota
+- NPCs locais
+
+## Principal metrópole — Venusa
+
+**Venusa** é a maior metrópole conhecida de Solaria.
+
+A cidade representa o auge da tecnologia regional e da convivência harmoniosa entre humanos e Pokémon.
+
+### Conceito
+
+- Grande centro urbano
+- Tecnologia avançada
+- Infraestrutura adaptada para Pokémon
+- Símbolo de prosperidade e harmonia
+- Contraste direto com a filosofia destrutiva da Equipe Void
 
 ## Liga Pokémon
 
-_A definir._
+A estrutura competitiva seguirá o formato tradicional:
+
+- 8 Ginásios
+- Elite Four
+- Campeão/Campeã
+
+Os líderes, tipos, cidades e temas já possuem planejamento inicial e serão documentados separadamente.
 
 ## Ginásios
 
 | Ordem | Líder | Tipo | Cidade | Status |
 |---|---|---|---|---|
-| 1 | A definir | A definir | A definir | Planejado |
-| 2 | A definir | A definir | A definir | Planejado |
-| 3 | A definir | A definir | A definir | Planejado |
-| 4 | A definir | A definir | A definir | Planejado |
-| 5 | A definir | A definir | A definir | Planejado |
-| 6 | A definir | A definir | A definir | Planejado |
-| 7 | A definir | A definir | A definir | Planejado |
-| 8 | A definir | A definir | A definir | Planejado |
+| 1 | Definido fora do documento | Definido | A documentar | Planejado |
+| 2 | Definido fora do documento | Definido | A documentar | Planejado |
+| 3 | Definido fora do documento | Definido | A documentar | Planejado |
+| 4 | Definido fora do documento | Definido | A documentar | Planejado |
+| 5 | Definido fora do documento | Definido | A documentar | Planejado |
+| 6 | Definido fora do documento | Definido | A documentar | Planejado |
+| 7 | Definido fora do documento | Definido | A documentar | Planejado |
+| 8 | Definido fora do documento | Definido | A documentar | Planejado |
 
 ## Pokédex regional
 
-_A definir._
+O projeto pretende utilizar **Pokémon oficiais de todas as gerações**.
 
-## Checklist
+Por enquanto, não há Fakemon definidos. Formas ou sistemas próprios poderão ser adicionados posteriormente.
 
-- [ ] Definir nome da região
-- [ ] Definir referência geográfica/cultural
-- [ ] Definir cidade inicial
-- [ ] Esboçar mapa geral
-- [ ] Definir cidades principais
-- [ ] Definir oito ginásios
-- [ ] Definir Liga Pokémon
+## Inspirações
+
+Referências principais mencionadas para o projeto:
+
+- Pokémon Light Platinum
+- Pokémon Unbound
+- Pokémon Sun & Moon
+
+## Exploração e conteúdo opcional
+
+A campanha seguirá uma estrutura tradicional de Pokémon, com algumas **sidequests** e objetivos opcionais distribuídos pela região.
+
+## Pontos ainda a definir
+
+- [ ] Confirmar a estrutura de duas regiões e definir a segunda, se aplicável
+- [ ] Definir inspiração geográfica/cultural específica de Solaria
+- [ ] Esboçar o mapa geral do continente
+- [ ] Definir posição de Terrae no mapa
+- [ ] Definir posição de Venusa no mapa
+- [ ] Documentar os oito ginásios
+- [ ] Definir locais especiais adicionais
+- [ ] Definir Liga Pokémon em detalhes
