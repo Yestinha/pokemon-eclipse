@@ -35,6 +35,7 @@ O planejamento do projeto está organizado em documentos separados:
 - [Personagens](docs/characters.md)
 - [Roadmap de desenvolvimento](docs/roadmap.md)
 - [Pokémon e Lendários](docs/pokemon.md)
+- [Ginásios](docs/gyms.md)
 
 ## Status do desenvolvimento
 
