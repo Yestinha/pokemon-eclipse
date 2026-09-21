@@ -28,7 +28,9 @@ Este documento acompanha a evolução do projeto em etapas pequenas e verificáv
 - [x] Definir conceito do Eclipse
 - [x] Definir Terrae como cidade inicial
 - [x] Definir Venusa como principal metrópole
-- [ ] Documentar os oito ginásios
+- [ ] Completar documentação dos oito ginásios
+- [x] Definir Élio, Sarah, Alice e Yesta
+- [x] Definir ordem dos tipos da Liga
 
 ## Fase 2 — Protótipo jogável
 
