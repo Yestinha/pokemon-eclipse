@@ -1,49 +1,110 @@
 # Pokémon Eclipse
 
-> Uma ROM hack de Pokémon Emerald criada com pokeemerald-expansion.
+> ROM hack de **Pokémon Emerald** em desenvolvimento, construída sobre o **pokeemerald-expansion**.
 
-## 🎮 Sobre o projeto
+## Sobre o projeto
 
-Projeto pessoal desenvolvido para aprender e aplicar conceitos de
-programação, game development, Git e design de jogos.
+**Pokémon Eclipse** é um projeto pessoal de game development criado para praticar e aplicar conceitos de programação em C, versionamento com Git/GitHub, scripting, design de mapas e desenvolvimento de sistemas para jogos.
 
-O jogo contará com:
+A proposta é transformar a base de Pokémon Emerald em uma experiência própria, com conteúdo original desenvolvido progressivamente ao longo do projeto.
 
-- Região original
-- História própria
-- Novos personagens
-- Líderes de ginásio originais
-- Eventos e sidequests
-- Pokémon de múltiplas gerações
-- Sistemas personalizados
+### Objetivos
 
-## 🛠️ Tecnologias
+- Criar uma região original
+- Desenvolver uma história própria
+- Criar personagens e líderes de ginásio originais
+- Implementar eventos e sidequests
+- Trabalhar com Pokémon de múltiplas gerações
+- Experimentar mecânicas e sistemas personalizados
+- Documentar publicamente a evolução do projeto
 
-- C
-- Git
-- GitHub
-- pokeemerald-expansion
-- Porymap
-- Poryscript
+## Tecnologias e ferramentas
 
-## 🚧 Status
+- **C**
+- **Git & GitHub**
+- **pokeemerald-expansion**
+- **Porymap**
+- **Poryscript**
 
-Em desenvolvimento.
+## Status do desenvolvimento
 
-### Progresso atual
+> **Fase atual:** estruturação inicial do projeto.
+
+### Progresso
 
 - [x] Repositório criado
+- [x] Base do pokeemerald-expansion adicionada
+- [x] README inicial do projeto
 - [ ] Ambiente de desenvolvimento configurado
-- [ ] Região definida
-- [ ] Cidade inicial
-- [ ] Primeiro evento
-- [ ] Primeiro treinador
-- [ ] Primeiro ginásio
+- [ ] Conceito da região definido
+- [ ] Protagonistas definidos
+- [ ] Rival definido
+- [ ] Trio inicial definido
+- [ ] Cidade inicial criada
+- [ ] Primeira rota criada
+- [ ] Primeiro evento implementado
+- [ ] Primeira batalha de treinador implementada
+- [ ] Primeiro ginásio implementado
 
-## 📸 Screenshots
+## Roadmap
 
-Em breve.
+### Fase 1 — Fundação
 
-## 📜 Créditos
+Definição da identidade do jogo e preparação do ambiente de desenvolvimento.
 
-Based on RHH's pokeemerald-expansion.
+- Conceito da região
+- História principal
+- Personagens centrais
+- Pokémon iniciais
+- Estrutura do mapa
+- Configuração e compilação da base
+
+### Fase 2 — Primeiro protótipo jogável
+
+Objetivo: produzir uma pequena versão funcional que represente o fluxo básico do jogo.
+
+- Cidade inicial
+- Escolha do inicial
+- Primeiro encontro com o rival
+- Primeira rota
+- Treinadores
+- Segunda cidade
+- Primeiro grande evento
+
+### Fase 3 — Expansão
+
+Após o protótipo estar estável, o projeto será expandido com novos mapas, eventos, personagens e sistemas.
+
+## Organização do desenvolvimento
+
+O projeto utiliza Git para registrar sua evolução. As alterações serão organizadas com commits descritivos, por exemplo:
+
+```text
+feat: add starter selection event
+feat: create first rival battle
+fix: correct event trigger
+docs: update project roadmap
+```
+
+Issues também poderão ser utilizadas para organizar funcionalidades, mapas, bugs e tarefas de história.
+
+## Screenshots
+
+Ainda não disponíveis. Esta seção será atualizada conforme os primeiros mapas e eventos forem implementados.
+
+## Créditos
+
+Pokémon Eclipse é desenvolvido com base no projeto **pokeemerald-expansion**, mantido pela comunidade **Rom Hacking Hideout (RHH)**.
+
+- pokeemerald-expansion: https://github.com/rh-hideout/pokeemerald-expansion
+- pokeemerald: https://github.com/pret/pokeemerald
+
+Pokémon e suas propriedades relacionadas pertencem aos seus respectivos detentores. Este é um projeto de fã, sem afiliação oficial com Nintendo, Game Freak ou The Pokémon Company.
+
+---
+
+### Objetivo de portfólio
+
+Além de ser um projeto de fã, Pokémon Eclipse também funciona como um projeto de estudo e portfólio, demonstrando evolução em:
+
+**C • Git • GitHub • Game Development • Scripting • Organização de projeto**
