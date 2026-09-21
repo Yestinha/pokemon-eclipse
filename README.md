@@ -26,6 +26,15 @@ A proposta é transformar a base de Pokémon Emerald em uma experiência própri
 - **Porymap**
 - **Poryscript**
 
+## Documentação
+
+O planejamento do projeto está organizado em documentos separados:
+
+- [História](docs/story.md)
+- [Região](docs/region.md)
+- [Personagens](docs/characters.md)
+- [Roadmap de desenvolvimento](docs/roadmap.md)
+
 ## Status do desenvolvimento
 
 > **Fase atual:** estruturação inicial do projeto.
@@ -35,6 +44,7 @@ A proposta é transformar a base de Pokémon Emerald em uma experiência própri
 - [x] Repositório criado
 - [x] Base do pokeemerald-expansion adicionada
 - [x] README inicial do projeto
+- [x] Documentação inicial de planejamento
 - [ ] Ambiente de desenvolvimento configurado
 - [ ] Conceito da região definido
 - [ ] Protagonistas definidos
