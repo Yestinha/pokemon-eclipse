@@ -148,18 +148,18 @@ A hierarquia interna, administradores e personagens recorrentes da organização
 
 ## Líderes de ginásio
 
-Os oito líderes já possuem conceitos definidos pelo autor e serão adicionados a este documento em uma etapa específica.
+Os detalhes completos da Liga estão organizados em [`docs/gyms.md`](gyms.md).
 
-| Ordem | Nome | Tipo | Personalidade | Papel na história |
-|---|---|---|---|---|
-| 1 | A documentar | A documentar | A documentar | A documentar |
-| 2 | A documentar | A documentar | A documentar | A documentar |
-| 3 | A documentar | A documentar | A documentar | A documentar |
-| 4 | A documentar | A documentar | A documentar | A documentar |
-| 5 | A documentar | A documentar | A documentar | A documentar |
-| 6 | A documentar | A documentar | A documentar | A documentar |
-| 7 | A documentar | A documentar | A documentar | A documentar |
-| 8 | A documentar | A documentar | A documentar | A documentar |
+| Ordem | Líder | Tipo | Destaque |
+|---|---|---|---|
+| 1 | Élio | Voador | antigo piloto e mentor |
+| 2 | A definir | Lutador | personagem pendente |
+| 3 | Sarah | Fada | criança prodígio |
+| 4 | A definir | Sombrio | personagem pendente |
+| 5 | Alice | Gelo | cantora de Venusa e neta de Élio |
+| 6 | A definir | Veneno | personagem pendente |
+| 7 | Yesta | Fantasma | cavaleira misteriosa |
+| 8 | A definir | Psíquico | personagem pendente |
 
 ## Próximos personagens a definir
 
@@ -172,6 +172,6 @@ Os oito líderes já possuem conceitos definidos pelo autor e serão adicionados
 - [x] Professora Star
 - [ ] Líder da Equipe Void
 - [ ] Administradores da Equipe Void
-- [ ] Líderes de ginásio
+- [ ] Completar os quatro Líderes de Ginásio restantes
 - [ ] Elite Four
 - [ ] Campeão/Campeã
