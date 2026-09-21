@@ -34,6 +34,7 @@ O planejamento do projeto está organizado em documentos separados:
 - [Região](docs/region.md)
 - [Personagens](docs/characters.md)
 - [Roadmap de desenvolvimento](docs/roadmap.md)
+- [Pokémon e Lendários](docs/pokemon.md)
 
 ## Status do desenvolvimento
 
