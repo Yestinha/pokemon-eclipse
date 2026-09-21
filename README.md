@@ -1,4 +1,4 @@
-# Pokémon: [Nome do Projeto]
+# Pokémon Eclipse
 
 > Uma ROM hack de Pokémon Emerald criada com pokeemerald-expansion.
 
