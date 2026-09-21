@@ -6,17 +6,29 @@
 **Nome canônico feminino:** Moon  
 **Sexo:** selecionável pelo jogador (masculino ou feminino)  
 **Cidade natal:** Terrae  
-**Objetivo inicial:** iniciar sua jornada Pokémon  
+**Objetivo inicial:** conquistar as Insígnias e tornar-se um dos maiores treinadores de Solaria  
 **Papel na história:** investigar os movimentos da Equipe Void enquanto avança pela Liga Pokémon  
 **Inicial:** escolha entre Gible, Impidimp ou Shinx  
 
 Assim como nos jogos oficiais de Pokémon, o jogador poderá escolher o nome do protagonista, mas **Sun** e **Moon** funcionarão como os nomes canônicos das versões masculina e feminina.
 
+### Infância
+
+Sun/Moon cresceu em Terrae ao lado de **Charlie** e **Lina**.
+
+A família do protagonista era bastante protetora e preferiu não lhe dar um Pokémon durante a infância, acreditando que deveria esperar até ter idade suficiente para iniciar oficialmente uma jornada.
+
+Mesmo sem possuir um Pokémon próprio, Sun/Moon passava grande parte do tempo com Charlie, Lina, Riolu e Chikorita. Os cinco cresceram juntos.
+
+Durante a infância, os três amigos criaram um objetivo em comum: um dia se tornariam grandes treinadores Pokémon. Quando finalmente atingiram idade suficiente, decidiram partir juntos em busca das Insígnias da Liga de Solaria.
+
 ## Rivais
 
-Pokémon Eclipse terá **dois rivais principais**, Charlie e Lina. Diferente do modelo clássico em que o rival escolhe um dos Pokémon restantes do laboratório, ambos já começam a história acompanhados de seus próprios parceiros.
+Pokémon Eclipse terá **dois rivais principais**, Charlie e Lina.
 
-Os dois iniciam a jornada com o mesmo grande objetivo: **tornar-se Campeão ou Campeã da Liga Pokémon**. Com o avanço da aventura, porém, a rivalidade esportiva deixa de ser o único foco. Ao descobrirem os planos da Equipe Void, Charlie e Lina passam a ajudar Sun/Moon diretamente na luta contra a organização.
+Eles não são rivais hostis: são amigos de infância de Sun/Moon. A competição entre os três nasce do sonho compartilhado de conquistar a Liga e provar quem conseguiu chegar mais longe como treinador.
+
+Charlie e Lina já começam a história acompanhados de seus próprios parceiros, portanto não dependem da escolha feita pelo jogador no laboratório.
 
 ### Charlie
 
@@ -25,11 +37,24 @@ Os dois iniciam a jornada com o mesmo grande objetivo: **tornar-se Campeão ou C
 **Pokémon parceiro:** Riolu  
 **Origem do parceiro:** Riolu foi presente de aniversário dado pelos pais de Charlie  
 **Objetivo pessoal:** tornar-se Campeão da Liga Pokémon  
-**Papel na história:** rival recorrente, companheiro de jornada e aliado contra a Equipe Void  
+**Papel na história:** rival recorrente, amigo de infância, companheiro de jornada e aliado contra a Equipe Void  
 
-Charlie começa sua aventura já com uma forte ligação afetiva com Riolu. Seu parceiro não foi escolhido apenas para competir: ele faz parte de sua história familiar e deverá acompanhar sua evolução ao longo da campanha.
+Charlie cresceu ao lado de Sun/Moon e Lina. Riolu sempre fez parte desse pequeno grupo desde que foi presenteado a Charlie.
 
-Sua jornada começa movida pela competição e pelo sonho de conquistar a Liga. Conforme entende a dimensão dos planos da Equipe Void, Charlie passa a colocar a proteção de Solaria acima da disputa pelo título e ajuda o protagonista a enfrentar a organização.
+Sua jornada começa movida pela competição saudável e pelo sonho de conquistar a Liga. Conforme entende a dimensão dos planos da Equipe Void, Charlie passa a colocar a proteção de Solaria acima da disputa pelo título e ajuda o protagonista a enfrentar a organização.
+
+#### Equipe final de Charlie
+
+A equipe de Charlie será construída progressivamente ao longo do jogo. Ele não substituirá membros: novos Pokémon serão capturados e os mesmos parceiros evoluirão conforme a campanha avança.
+
+| Pokémon final | Linha do time |
+|---|---|
+| Lucario | parceiro inicial: Riolu |
+| Gengar | capturado durante a jornada |
+| Umbreon | capturado/evoluído durante a jornada |
+| Metagross | capturado/evoluído durante a jornada |
+| Toxtricity | capturado/evoluído durante a jornada |
+| Armarouge | capturado/evoluído durante a jornada |
 
 ### Lina
 
@@ -37,7 +62,7 @@ Sua jornada começa movida pela competição e pelo sonho de conquistar a Liga. 
 **Personalidade:** super animada e energética  
 **Pokémon parceiro:** Chikorita  
 **Objetivo pessoal:** tornar-se Campeã da Liga Pokémon  
-**Papel na história:** rival recorrente, companheira de jornada e aliada contra a Equipe Void  
+**Papel na história:** rival recorrente, amiga de infância, companheira de jornada e aliada contra a Equipe Void  
 
 #### Origem de Chikorita
 
@@ -49,26 +74,41 @@ Essa relação faz com que Chikorita represente uma amizade construída durante 
 
 Assim como Charlie, Lina começa a jornada determinada a conquistar a Liga. Ao descobrir o que a Equipe Void pretende fazer com os Pokémon lendários, ela se junta ao protagonista e a Charlie na luta contra a organização.
 
-## Dinâmica inicial
+#### Equipe final de Lina
 
-A configuração inicial dos três treinadores será:
+Lina também manterá os mesmos Pokémon que capturar durante a campanha. Sua equipe crescerá aos poucos e os membros evoluirão em momentos específicos da história.
 
-| Personagem | Pokémon inicial/parceiro | Objetivo inicial |
+| Pokémon final | Linha do time |
+|---|---|
+| Meganium | parceiro inicial: Chikorita |
+| Espeon | capturado/evoluído durante a jornada |
+| Greninja | capturado/evoluído durante a jornada |
+| Goodra | capturado/evoluído durante a jornada |
+| Primarina | capturado/evoluído durante a jornada |
+| Mimikyu | capturado durante a jornada |
+
+## Dinâmica do trio
+
+A configuração inicial será:
+
+| Personagem | Pokémon inicial/parceiro | Objetivo |
 |---|---|---|
-| Sun / Moon | Gible, Impidimp ou Shinx | Jornada Pokémon / Liga |
-| Charlie | Riolu | Tornar-se Campeão |
-| Lina | Chikorita | Tornar-se Campeã |
+| Sun / Moon | Gible, Impidimp ou Shinx | conquistar as Insígnias e tornar-se um grande treinador |
+| Charlie | Riolu | tornar-se Campeão |
+| Lina | Chikorita | tornar-se Campeã |
 
-Charlie e Lina possuem parceiros próprios e histórias independentes da escolha feita pelo jogador no laboratório.
+Os três partem juntos de Terrae em busca das Insígnias.
+
+A relação entre eles combina amizade de infância, competição saudável e companheirismo. Cada um deseja conquistar a Liga, mas nenhum deles vê os outros como inimigos.
 
 ## Arco conjunto dos rivais
 
-A trajetória dos dois rivais terá duas fases principais:
+A trajetória dos três amigos terá duas grandes fases:
 
-1. **Competição pela Liga** — Charlie e Lina funcionam como rivais recorrentes de Sun/Moon e perseguem o título de Campeão.
-2. **Conflito com a Equipe Void** — ao descobrirem o verdadeiro plano da organização, os dois passam a atuar como aliados do protagonista na tentativa de impedir o Caos do Eclipse.
+1. **Jornada pela Liga** — Sun/Moon, Charlie e Lina percorrem Solaria em busca das Insígnias enquanto competem entre si e desenvolvem suas equipes.
+2. **Conflito com a Equipe Void** — ao descobrirem o verdadeiro plano da organização, Charlie e Lina passam a atuar junto de Sun/Moon para impedir o Caos do Eclipse.
 
-A rivalidade continuará existindo, mas deixa de ser mais importante que a ameaça enfrentada por Solaria.
+A rivalidade continua existindo, mas a amizade entre os três se torna mais importante diante da ameaça à região.
 
 ## Professora Star
 
@@ -123,13 +163,13 @@ Os oito líderes já possuem conceitos definidos pelo autor e serão adicionados
 
 ## Próximos personagens a definir
 
-- [x] Nomes canônicos do protagonista masculino e feminino
+- [x] Sun e Moon
+- [x] Relação de infância do trio
 - [x] Charlie
 - [x] Lina
-- [x] Objetivo inicial dos dois rivais
-- [x] Papel dos rivais contra a Equipe Void
+- [x] Equipe final de Charlie
+- [x] Equipe final de Lina
 - [x] Professora Star
-- [ ] Relação pessoal de Sun/Moon com Charlie e Lina
 - [ ] Líder da Equipe Void
 - [ ] Administradores da Equipe Void
 - [ ] Líderes de ginásio
