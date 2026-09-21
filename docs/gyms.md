@@ -78,8 +78,18 @@ O desafio envolve gincanas e atividades relacionadas a Pokémon voadores, combin
 **Líder:** A definir  
 **Cidade:** A definir  
 **Insígnia:** A definir  
+**ACE:** Monferno  
 
-A equipe já foi definida pelo autor e será adicionada quando o personagem for desenvolvido.
+## Equipe
+
+| Pokémon | Papel |
+|---|---|
+| **Monferno** | **ACE** |
+| Riolu | membro da equipe |
+| Meditite | membro da equipe |
+| Timburr | membro da equipe |
+| Scraggy | membro da equipe |
+| Pancham | membro da equipe |
 
 **Gimmick:** nenhuma por enquanto  
 **TM:** a definir  
@@ -137,8 +147,18 @@ O ambiente reforça a beleza e o caráter mágico associados ao tipo Fada.
 **Líder:** A definir  
 **Cidade:** A definir  
 **Insígnia:** A definir  
+**ACE:** Zoroark  
 
-A equipe já foi definida pelo autor e será adicionada quando o personagem for desenvolvido.
+## Equipe
+
+| Pokémon | Papel |
+|---|---|
+| Morgrem | membro da equipe |
+| Zweilous | membro da equipe |
+| Pawniard | membro da equipe |
+| **Zoroark** | **ACE** |
+| Krokorok | membro da equipe |
+| Houndour | membro da equipe |
 
 **Gimmick:** nenhuma por enquanto  
 **TM:** a definir  
@@ -204,8 +224,18 @@ A batalha contra Alice funciona quase como a apresentação principal de uma gra
 **Líder:** A definir  
 **Cidade:** A definir  
 **Insígnia:** A definir  
+**ACE:** Venusaur  
 
-A equipe já foi definida pelo autor e será adicionada quando o personagem for desenvolvido.
+## Equipe
+
+| Pokémon | Papel |
+|---|---|
+| **Venusaur** | **ACE** |
+| Drapion | membro da equipe |
+| Toxicroak | membro da equipe |
+| Scolipede | membro da equipe |
+| Salazzle | membro da equipe |
+| Toxtricity | membro da equipe |
 
 **Gimmick:** nenhuma por enquanto  
 **TM:** a definir  
@@ -269,8 +299,18 @@ A ambientação mistura sua herança de cavaleira com o caráter sobrenatural de
 **Líder:** A definir  
 **Cidade:** A definir  
 **Insígnia:** A definir  
+**ACE:** Armarouge  
 
-A equipe já foi definida pelo autor e será adicionada quando o personagem for desenvolvido.
+## Equipe
+
+| Pokémon | Papel |
+|---|---|
+| Alakazam | membro da equipe |
+| Metagross | membro da equipe |
+| Meowstic | membro da equipe |
+| Malamar | membro da equipe |
+| Hatterene | membro da equipe |
+| **Armarouge** | **ACE** |
 
 **Gimmick:** nenhuma por enquanto  
 **TM:** a definir  
@@ -282,13 +322,13 @@ A equipe já foi definida pelo autor e será adicionada quando o personagem for 
 
 - [x] Definir ordem dos oito tipos
 - [x] Definir Élio
-- [ ] Definir 2º Líder — Lutador
+- [ ] Definir personagem do 2º Líder — Lutador
 - [x] Definir Sarah
-- [ ] Definir 4º Líder — Sombrio
+- [ ] Definir personagem do 4º Líder — Sombrio
 - [x] Definir Alice
-- [ ] Definir 6º Líder — Veneno
+- [ ] Definir personagem do 6º Líder — Veneno
 - [x] Definir Yesta
-- [ ] Definir 8º Líder — Psíquico
+- [ ] Definir personagem do 8º Líder — Psíquico
 - [ ] Definir cidades restantes junto ao mapa de Solaria
 - [ ] Definir quatro Insígnias restantes
 - [ ] Definir TMs
