@@ -41,7 +41,7 @@ O planejamento do projeto está organizado em documentos separados:
 
 ## Status do desenvolvimento
 
-> **Fase atual:** estruturação inicial do projeto.
+> **Fase atual:** início do protótipo jogável do prólogo.
 
 ### Progresso
 
@@ -49,7 +49,7 @@ O planejamento do projeto está organizado em documentos separados:
 - [x] Base do pokeemerald-expansion adicionada
 - [x] README inicial do projeto
 - [x] Documentação inicial de planejamento
-- [ ] Ambiente de desenvolvimento configurado
+- [x] Ambiente de desenvolvimento configurado
 - [ ] Conceito da região definido
 - [ ] Protagonistas definidos
 - [ ] Rival definido
