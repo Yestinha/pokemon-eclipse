@@ -9,6 +9,7 @@
 **Objetivo inicial:** conquistar as Insígnias e tornar-se um dos maiores treinadores de Solaria  
 **Papel na história:** investigar os movimentos da Equipe Void enquanto avança pela Liga Pokémon  
 **Inicial:** escolha entre Gible, Impidimp ou Shinx  
+**Presente posterior:** Eevee recebido da Professora Star após o evento da Praia Lactia  
 
 Assim como nos jogos oficiais de Pokémon, o jogador poderá escolher o nome do protagonista, mas **Sun** e **Moon** funcionarão como os nomes canônicos das versões masculina e feminina.
 
@@ -51,7 +52,7 @@ A equipe de Charlie será construída progressivamente ao longo do jogo. Ele nã
 |---|---|
 | Lucario | parceiro inicial: Riolu |
 | Gengar | capturado durante a jornada |
-| Umbreon | capturado/evoluído durante a jornada |
+| Umbreon | evolui do Eevee presenteado pela Professora Star após a Praia Lactia |
 | Metagross | capturado/evoluído durante a jornada |
 | Toxtricity | capturado/evoluído durante a jornada |
 | Armarouge | capturado/evoluído durante a jornada |
@@ -81,7 +82,7 @@ Lina também manterá os mesmos Pokémon que capturar durante a campanha. Sua eq
 | Pokémon final | Linha do time |
 |---|---|
 | Meganium | parceiro inicial: Chikorita |
-| Espeon | capturado/evoluído durante a jornada |
+| Espeon | evolui do Eevee presenteado pela Professora Star após a Praia Lactia |
 | Greninja | capturado/evoluído durante a jornada |
 | Goodra | capturado/evoluído durante a jornada |
 | Primarina | capturado/evoluído durante a jornada |
@@ -99,14 +100,19 @@ A configuração inicial será:
 
 Os três partem juntos de Terrae em busca das Insígnias.
 
-A relação entre eles combina amizade de infância, competição saudável e companheirismo. Cada um deseja conquistar a Liga, mas nenhum deles vê os outros como inimigos.
+Após o confronto com a Equipe Void na Praia Lactia, Professora Star aconselha os três a continuarem sua jornada e se tornarem mais fortes. Como agradecimento, entrega um **Eevee para cada um**.
+
+A partir desse momento, Charlie e Lina propõem que os três sigam caminhos separados por um tempo para desenvolver sua própria força e formar suas equipes de maneira independente.
+
+A relação entre eles combina amizade de infância, competição saudável e companheirismo. Cada um deseja conquistar a Liga, mas nenhum deles vê os outros como inimigos. Mesmo separados durante partes da jornada, combinam que voltarão a se reunir quando precisarem ajudar uns aos outros ou enfrentar novas ameaças.
 
 ## Arco conjunto dos rivais
 
 A trajetória dos três amigos terá duas grandes fases:
 
-1. **Jornada pela Liga** — Sun/Moon, Charlie e Lina percorrem Solaria em busca das Insígnias enquanto competem entre si e desenvolvem suas equipes.
-2. **Conflito com a Equipe Void** — ao descobrirem o verdadeiro plano da organização, Charlie e Lina passam a atuar junto de Sun/Moon para impedir o Caos do Eclipse.
+1. **Início conjunto** — Sun/Moon, Charlie e Lina deixam Terrae lado a lado e vivem os primeiros acontecimentos da jornada juntos.
+2. **Caminhos separados** — após a Praia Lactia, os três passam a viajar separadamente para construir sua própria força, mantendo a rivalidade amistosa e se reencontrando em momentos importantes.
+3. **Conflito com a Equipe Void** — conforme descobrem o verdadeiro plano da organização, Charlie e Lina voltam a atuar diretamente ao lado de Sun/Moon para impedir o Caos do Eclipse.
 
 A rivalidade continua existindo, mas a amizade entre os três se torna mais importante diante da ameaça à região.
 
