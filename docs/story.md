@@ -76,6 +76,32 @@ A proposta é que Pokémon lendários de várias gerações tenham relevância r
 
 O papel individual de cada lendário será definido durante o desenvolvimento dos arcos da campanha.
 
+## Primeiro confronto com a Equipe Void
+
+O primeiro confronto direto com a organização ocorre logo após a chegada do grupo a **Astrid**.
+
+Professora Star descobre que membros da Equipe Void estão vasculhando uma praia próxima à cidade e segue até lá para confrontá-los.
+
+Quando Sun/Moon, Charlie e Lina chegam ao local, um membro de patente superior encontra um **Orbe Azul**. A reação imediata de Star demonstra que o objeto possui grande importância.
+
+Sun/Moon enfrenta um soldado da Void usando **Poochyena, Pawniard e Yamask**, enquanto Charlie e Lina lidam com outros dois membros da organização.
+
+Após a primeira derrota inimiga, o oficial superior envia um **Aggron**, muito acima do nível do grupo naquele momento.
+
+A situação é interrompida quando um **Victini pertencente à Professora Star** entra espontaneamente na batalha e derrota Aggron com seu golpe assinatura.
+
+A Equipe Void é obrigada a recuar, mas consegue escapar levando o Orbe Azul.
+
+Esse evento estabelece desde cedo que:
+
+- a Equipe Void está procurando artefatos específicos;
+- seus membros mais importantes possuem Pokémon muito mais poderosos que os treinadores iniciantes;
+- Professora Star conhece mais sobre esses artefatos do que revela inicialmente;
+- Star possui ligação direta com Victini;
+- a organização está disposta a agir abertamente para obter o que procura.
+
+A natureza exata do Orbe Azul e sua ligação com os planos maiores da organização ainda serão detalhadas.
+
 ## Estrutura narrativa inicial
 
 ### Início
