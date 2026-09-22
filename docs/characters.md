@@ -122,7 +122,9 @@ Star é apaixonada por Pokémon e acredita na convivência harmoniosa entre huma
 
 Ela repudia completamente as atitudes anti-harmônicas da **Equipe Void** e deverá funcionar como uma das principais referências científicas e morais do jogador durante a investigação do Eclipse.
 
-Durante o primeiro confronto com a Equipe Void na praia próxima a Astrid, é revelado que Star possui um **Victini**. Quando um oficial da organização ameaça o grupo com Aggron, Victini sai de uma das Poké Bolas de Star e derrota o adversário com seu golpe assinatura.
+Durante o primeiro confronto com a Equipe Void na **Praia Lactia**, é revelado que Star possui um **Victini**. Quando Vladimir ameaça o grupo com Aggron, Victini sai de uma das Poké Bolas de Star e derrota o adversário utilizando **V-create**.
+
+Star também demonstra amplo conhecimento sobre lendas Pokémon: ela reconhece imediatamente o **Blue Orb**, ligado a Kyogre, embora não saiba por que a Equipe Void está tentando obtê-lo.
 
 ### Pontos a desenvolver
 
@@ -148,7 +150,18 @@ Sua motivação pessoal e origem ainda serão definidas.
 
 Os membros da Equipe Void utilizam uniformes negros que lembram um céu estrelado e carregam no peito um círculo negro representando o vazio.
 
-A hierarquia interna, administradores e personagens recorrentes da organização serão definidos posteriormente.
+### Vladimir
+
+**Nome:** Vladimir  
+**Posição:** membro de patente intermediária da Equipe Void  
+**Hierarquia:** duas classes acima dos soldados de menor patente  
+**Pokémon revelado:** Aggron  
+
+Vladimir participa do primeiro confronto da organização com Sun/Moon na Praia Lactia. Ele não ocupa uma posição especial entre os grandes nomes da Equipe Void; sua função inicial é demonstrar que existe uma hierarquia acima dos soldados comuns.
+
+É Vladimir quem encontra o Blue Orb e consegue fugir com o artefato após Victini derrotar seu Aggron.
+
+A estrutura completa de patentes, administradores e demais personagens recorrentes da organização será definida posteriormente.
 
 ## Líderes de ginásio
 
