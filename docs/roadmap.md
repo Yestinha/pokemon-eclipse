@@ -39,7 +39,8 @@ Este documento acompanha a evolução do projeto em etapas pequenas e verificáv
 - [ ] Implementar escolha do inicial
 - [ ] Criar primeiro encontro com Charlie e Lina
 - [ ] Implementar primeira batalha de rival
-- [ ] Criar primeira rota
+- [ ] Implementar mapa da Rota Celestial 1
+- [x] Definir conceito da Rota Celestial 1
 - [ ] Adicionar primeiros treinadores
 - [ ] Criar segunda cidade
 
