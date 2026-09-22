@@ -116,10 +116,13 @@ A rivalidade continua existindo, mas a amizade entre os três se torna mais impo
 **Aparência:** jovem de cabelos loiros e olhos azuis reluzentes  
 **Área de pesquisa:** A detalhar  
 **Base:** laboratório de Terrae  
+**Pokémon revelado:** Victini  
 
 Star é apaixonada por Pokémon e acredita na convivência harmoniosa entre humanos e Pokémon.
 
 Ela repudia completamente as atitudes anti-harmônicas da **Equipe Void** e deverá funcionar como uma das principais referências científicas e morais do jogador durante a investigação do Eclipse.
+
+Durante o primeiro confronto com a Equipe Void na praia próxima a Astrid, é revelado que Star possui um **Victini**. Quando um oficial da organização ameaça o grupo com Aggron, Victini sai de uma das Poké Bolas de Star e derrota o adversário com seu golpe assinatura.
 
 ### Pontos a desenvolver
 
@@ -128,6 +131,7 @@ Ela repudia completamente as atitudes anti-harmônicas da **Equipe Void** e deve
 - Conhecimento inicial sobre a lenda do Eclipse
 - Relação com Venusa
 - Papel durante o clímax da história
+- Origem da relação entre Star e Victini
 
 ## Líder da Equipe Void
 
