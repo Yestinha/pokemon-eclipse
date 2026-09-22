@@ -51,6 +51,9 @@ Este documento acompanha a evolução do projeto em etapas pequenas e verificáv
 - [x] Definir primeiro confronto com a Equipe Void na praia de Astrid
 - [ ] Implementar primeiro grande evento
 - [x] Definir evento do Orbe Azul e intervenção de Victini
+- [x] Definir recompensa de Eevee para o trio
+- [x] Definir separação temporária de Sun/Moon, Charlie e Lina
+- [x] Definir próximo objetivo: cidade do primeiro Ginásio
 - [x] Definir gatilho da missão em Astrid
 - [ ] Criar primeiro ginásio
 - [ ] Implementar primeira insígnia
