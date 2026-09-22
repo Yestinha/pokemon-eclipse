@@ -85,10 +85,9 @@ A rota terá espécies típicas de áreas iniciais, com predominância de Pokém
 
 ## Espécies definidas
 
-- Poochyena
 - Zigzagoon
 - Pidgey
-- Fearow
+- Spearow
 - Pidove
 - Ralts
 
@@ -105,13 +104,14 @@ Outras espécies poderão ser adicionadas durante o balanceamento.
 
 A Rota Celestial 1 terá encontros diferentes dependendo do horário.
 
-As espécies específicas de dia, noite e demais períodos ainda serão distribuídas posteriormente.
+Os encontros foram separados entre dia e noite.
 
 | Período | Espécies |
 |---|---|
-| Dia | A definir |
-| Noite | A definir |
-| Outros períodos | A definir |
+| Dia | Pidgey, Pidove, Zigzagoon, Spearow, **Ralts (raro)** |
+| Noite | Zigzagoon de Galar, Rattata de Alola, Mankey, **Zorua (raro)** |
+
+Ralts será o encontro raro do período diurno e Zorua o encontro raro do período noturno.
 
 ---
 
@@ -208,7 +208,7 @@ Ao concluir a Rota Celestial 1, o jogador deve:
 - [x] Poção visível
 - [x] Assistente entrega uma Poké Bola
 - [x] Próxima cidade não possui Ginásio
-- [ ] Definir tabela completa de encontros por horário
+- [x] Definir tabela de encontros por horário
 - [ ] Definir taxas de encontro
 - [ ] Definir equipes dos dois treinadores
 - [ ] Definir diálogo do assistente
