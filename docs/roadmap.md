@@ -47,8 +47,10 @@ Este documento acompanha a evolução do projeto em etapas pequenas e verificáv
 
 ## Fase 3 — Primeiro arco
 
-- [ ] Introduzir a Equipe Void no jogo
+- [ ] Implementar introdução da Equipe Void
+- [x] Definir primeiro confronto com a Equipe Void na praia de Astrid
 - [ ] Implementar primeiro grande evento
+- [x] Definir evento do Orbe Azul e intervenção de Victini
 - [x] Definir gatilho da missão em Astrid
 - [ ] Criar primeiro ginásio
 - [ ] Implementar primeira insígnia
