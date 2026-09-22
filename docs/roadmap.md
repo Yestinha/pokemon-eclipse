@@ -45,6 +45,18 @@ Este documento acompanha a evolução do projeto em etapas pequenas e verificáv
 - [ ] Implementar mapa de Astrid
 - [x] Definir Astrid como segunda cidade
 
+## Fase 2A — Protótipo do prólogo
+
+- [ ] Compilar a base atual
+- [ ] Implementar Terrae
+- [ ] Implementar escolha do inicial e rivais
+- [ ] Implementar Rota Celestial 1
+- [ ] Implementar Astrid
+- [ ] Implementar Praia Lactia
+- [ ] Concluir fluxo jogável do prólogo
+
+Planejamento detalhado em [`docs/prototype-prologue.md`](prototype-prologue.md).
+
 ## Fase 3 — Primeiro arco
 
 - [ ] Implementar introdução da Equipe Void
