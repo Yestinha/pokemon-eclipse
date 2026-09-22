@@ -296,8 +296,8 @@ Isso estabelece uma dinâmica que pode se repetir durante o jogo:
 - [x] Os três partem juntos
 - [x] Charlie e Lina seguem na frente após a saída
 - [x] Primeiro objetivo: **“Vá ao laboratório da Professora Star para pegar seu primeiro Pokémon.”**
-- [ ] Definir nome e conceito da primeira rota
+- [x] Definir primeira rota: **Rota Celestial 1**
 
 ## Critério de conclusão
 
-Este capítulo estará pronto para implementação quando os diálogos principais, os golpes iniciais das três primeiras equipes e o conceito da primeira rota estiverem definidos.
+Este capítulo estará pronto para implementação quando os diálogos principais e os golpes iniciais das três primeiras equipes estiverem definidos. A primeira rota já está documentada em [`docs/routes.md`](routes.md).
