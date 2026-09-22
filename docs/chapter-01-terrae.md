@@ -170,19 +170,17 @@ Serão **duas batalhas consecutivas**, uma contra cada rival.
 
 ## Níveis iniciais
 
-- Pokémon de Sun/Moon: nível a definir, provavelmente equivalente aos rivais
+- Pokémon de Sun/Moon: **nível 5**
 - Riolu de Charlie: **nível 5**
 - Chikorita de Lina: **nível 5**
 
-## Ordem
+## Ordem das batalhas
 
-A ordem exata das batalhas ainda pode ser definida.
+O jogador poderá **escolher com qual rival deseja batalhar primeiro**.
 
-Possibilidades:
+Depois da primeira batalha, enfrenta automaticamente o outro rival.
 
-1. Charlie primeiro, Lina depois
-2. Lina primeiro, Charlie depois
-3. escolha do jogador
+Isso reforça a liberdade do jogador logo no início e evita estabelecer Charlie ou Lina como “rival principal”.
 
 Não haverá necessidade de ambos escolherem Pokémon do laboratório, já que Riolu e Chikorita são seus parceiros pessoais.
 
@@ -211,6 +209,12 @@ Esse momento conecta a família do protagonista à identidade de Terrae.
 
 Sun/Moon, Charlie e Lina saem de Terrae juntos.
 
+Antes de deixar a cidade, os três passam pela praça central e pela **estátua de Mega Rayquaza**.
+
+Sun/Moon para por um instante e encara a estátua. O momento conecta visualmente o conselho dado pela mãe — **“Alcance os céus”** — ao início oficial da jornada.
+
+Depois desse breve momento, o grupo continua até a saída de Terrae.
+
 Pouco depois, Charlie e Lina seguem um pouco à frente, permitindo que o jogador assuma o controle da exploração da rota sem precisar manter os três personagens fisicamente agrupados o tempo todo.
 
 Isso estabelece uma dinâmica que pode se repetir durante o jogo:
@@ -225,20 +229,24 @@ Isso estabelece uma dinâmica que pode se repetir durante o jogo:
 
 1. Programa científico da Professora Star na TV
 2. Sun/Moon em casa com a mãe
-3. Jogador sai de casa
-4. Riolu corre atrás de Chikorita
-5. Charlie e Lina aparecem
-6. Grupo segue para o laboratório
-7. Professora Star apresenta Gible, Impidimp e Shinx
-8. Sun/Moon escolhe seu primeiro Pokémon
-9. Star ativa o aplicativo da Pokédex
-10. Primeira batalha contra um dos rivais
-11. Segunda batalha contra o outro rival
-12. Despedida da mãe
-13. “Alcance os céus”
-14. Os três deixam Terrae
-15. Charlie e Lina seguem na frente
-16. Jogador inicia a primeira rota
+3. Primeiro objetivo: **“Vá ao laboratório da Professora Star para pegar seu primeiro Pokémon.”**
+4. Jogador sai de casa
+5. Riolu corre atrás de Chikorita
+6. Charlie e Lina aparecem
+7. Grupo segue para o laboratório
+8. Professora Star apresenta Gible, Impidimp e Shinx
+9. Sun/Moon escolhe seu primeiro Pokémon — nível 5
+10. Star ativa o aplicativo da Pokédex
+11. Jogador escolhe qual rival enfrentar primeiro
+12. Primeira batalha
+13. Segunda batalha contra o rival restante
+14. Despedida da mãe
+15. “Alcance os céus”
+16. Os três passam pela estátua de Mega Rayquaza
+17. Sun/Moon para e encara a estátua antes de prosseguir
+18. Os três deixam Terrae
+19. Charlie e Lina seguem na frente
+20. Jogador inicia a primeira rota
 
 ---
 
@@ -261,7 +269,7 @@ Isso estabelece uma dinâmica que pode se repetir durante o jogo:
 - [x] Encontram Sun/Moon após Riolu e Chikorita correrem para brincar
 - [x] Sabem que o protagonista receberá seu primeiro Pokémon naquele dia
 - [x] Partem junto com Sun/Moon
-- [ ] Definir qual deles batalha primeiro
+- [x] O jogador escolhe qual deles batalha primeiro
 
 ## Professora Star
 - [x] Conhece Sun/Moon desde pequeno
@@ -272,23 +280,24 @@ Isso estabelece uma dinâmica que pode se repetir durante o jogo:
 
 ## Primeiras batalhas
 - [x] Charlie e Lina batalham contra o protagonista em sequência
+- [x] Inicial de Sun/Moon está no nível 5
 - [x] Riolu está no nível 5
 - [x] Chikorita está no nível 5
-- [ ] Definir nível do inicial de Sun/Moon
-- [ ] Definir ordem das batalhas
+- [x] Jogador escolhe qual rival enfrentar primeiro
 - [ ] Definir golpes iniciais
 - [ ] Escrever diálogos pré e pós-batalha
 
 ## Estátua de Mega Rayquaza
 - [x] “Alcance os céus” possui significado imediato como conselho da mãe
-- [ ] Decidir se a estátua deve aparecer obrigatoriamente em uma cena antes da saída
+- [x] Os três passam obrigatoriamente pela estátua antes de sair de Terrae
+- [x] Sun/Moon para e encara a estátua antes de prosseguir
 
 ## Saída de Terrae
 - [x] Os três partem juntos
 - [x] Charlie e Lina seguem na frente após a saída
-- [ ] Definir primeiro objetivo exibido ao jogador
+- [x] Primeiro objetivo: **“Vá ao laboratório da Professora Star para pegar seu primeiro Pokémon.”**
 - [ ] Definir nome e conceito da primeira rota
 
 ## Critério de conclusão
 
-Este capítulo estará pronto para implementação quando os diálogos principais, a ordem e configuração das duas batalhas e o primeiro objetivo da rota estiverem definidos.
+Este capítulo estará pronto para implementação quando os diálogos principais, os golpes iniciais das três primeiras equipes e o conceito da primeira rota estiverem definidos.
