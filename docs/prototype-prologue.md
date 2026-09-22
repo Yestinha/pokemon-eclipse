@@ -42,7 +42,7 @@ O desenvolvimento será feito em pequenas entregas jogáveis.
 - [x] Configurar ambiente de desenvolvimento
 - [x] Compilar a base atual sem alterações
 - [x] Abrir a ROM compilada em um emulador
-- [ ] Instalar e abrir Porymap
+- [x] Instalar e abrir Porymap
 - [ ] Fazer um commit de checkpoint após a build funcionar
 
 ### Etapa 1 — Terrae vazia
