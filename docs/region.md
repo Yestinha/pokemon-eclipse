@@ -67,6 +67,23 @@ A estátua funciona como símbolo histórico e cultural da cidade e será um dos
 - Caminho para a primeira rota
 - NPCs locais
 
+## Astrid
+
+**Astrid** é uma pequena cidade localizada após a Rota Celestial 1.
+
+A cidade não possui Ginásio e funciona como o primeiro centro urbano visitado pelo jogador depois de Terrae.
+
+### Elementos planejados
+
+- Centro Pokémon
+- Loja
+- Residências
+- Casa com pequeno lago
+- NPC que entrega Vara de Pescar
+- Evento narrativo com Professora Star
+
+O planejamento detalhado está em [`docs/cities.md`](cities.md).
+
 ## Principal metrópole — Venusa
 
 **Venusa** é a maior metrópole conhecida de Solaria.
