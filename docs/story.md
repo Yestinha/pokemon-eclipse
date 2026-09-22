@@ -94,13 +94,21 @@ A Equipe Void é obrigada a recuar, mas consegue escapar levando o Blue Orb.
 
 Após a fuga, Star explica que o objeto é um artefato lendário ligado a Kyogre. Ela não sabe por que a Equipe Void o deseja, mas seu conhecimento sobre as lendas é suficiente para saber que o artefato não deveria permanecer nas mãos da organização.
 
+Star também deixa claro que os três ainda são inexperientes demais para enfrentar diretamente ameaças desse nível. Ela os incentiva a continuar a jornada da Liga, conquistar experiência e se tornar mais fortes para que, no futuro, possam realmente ajudar.
+
+Como agradecimento pela ajuda, Star entrega **um Eevee para cada um**. O Eevee de Charlie futuramente se tornará Umbreon e o de Lina, Espeon. O destino do Eevee de Sun/Moon permanece aberto.
+
+Depois disso, Charlie e Lina decidem que será melhor cada treinador seguir o próprio caminho por um tempo. Eles continuam com o mesmo objetivo de chegar à cidade do primeiro Ginásio, mas passam a viajar separadamente para construir sua própria força, combinando que voltarão a se reunir quando necessário.
+
 Esse evento estabelece desde cedo que:
 
 - a Equipe Void está procurando artefatos específicos;
 - seus membros mais importantes possuem Pokémon muito mais poderosos que os treinadores iniciantes;
 - Professora Star possui conhecimento prévio sobre lendas e artefatos lendários;
 - Star possui ligação direta com Victini;
-- a organização está disposta a agir abertamente para obter o que procura.
+- a organização está disposta a agir abertamente para obter o que procura;
+- a jornada da Liga também funciona como caminho de amadurecimento do trio;
+- a amizade entre Sun/Moon, Charlie e Lina continua mesmo quando eles deixam de viajar juntos o tempo todo.
 
 A função do Blue Orb dentro do plano maior da Equipe Void ainda será detalhada.
 
