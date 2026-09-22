@@ -42,12 +42,14 @@ Este documento acompanha a evolução do projeto em etapas pequenas e verificáv
 - [ ] Implementar mapa da Rota Celestial 1
 - [x] Definir conceito da Rota Celestial 1
 - [ ] Adicionar primeiros treinadores
-- [ ] Criar segunda cidade
+- [ ] Implementar mapa de Astrid
+- [x] Definir Astrid como segunda cidade
 
 ## Fase 3 — Primeiro arco
 
 - [ ] Introduzir a Equipe Void no jogo
-- [ ] Criar primeiro grande evento
+- [ ] Implementar primeiro grande evento
+- [x] Definir gatilho da missão em Astrid
 - [ ] Criar primeiro ginásio
 - [ ] Implementar primeira insígnia
 - [ ] Criar primeira sidequest
