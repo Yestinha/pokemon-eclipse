@@ -82,25 +82,27 @@ O primeiro confronto direto com a organização ocorre logo após a chegada do g
 
 Professora Star descobre que membros da Equipe Void estão vasculhando uma praia próxima à cidade e segue até lá para confrontá-los.
 
-Quando Sun/Moon, Charlie e Lina chegam ao local, um membro de patente superior encontra um **Orbe Azul**. A reação imediata de Star demonstra que o objeto possui grande importância.
+Quando Sun/Moon, Charlie e Lina chegam à **Praia Lactia**, **Vladimir**, um membro da Void duas classes acima dos soldados comuns, encontra o **Blue Orb**, artefato lendário associado a Kyogre. A reação imediata de Star demonstra que ela reconhece sua importância por conhecer as antigas lendas.
 
-Sun/Moon enfrenta um soldado da Void usando **Poochyena, Pawniard e Yamask**, enquanto Charlie e Lina lidam com outros dois membros da organização.
+Sun/Moon enfrenta um soldado da Void usando **Poochyena (Nv. 6), Pawniard (Nv. 6) e Yamask (Nv. 7)**, enquanto Charlie e Lina lidam com outros dois membros da organização.
 
 Após a primeira derrota inimiga, o oficial superior envia um **Aggron**, muito acima do nível do grupo naquele momento.
 
-A situação é interrompida quando um **Victini pertencente à Professora Star** entra espontaneamente na batalha e derrota Aggron com seu golpe assinatura.
+A situação é interrompida quando um **Victini pertencente à Professora Star** entra espontaneamente na batalha e derrota Aggron utilizando **V-create**.
 
-A Equipe Void é obrigada a recuar, mas consegue escapar levando o Orbe Azul.
+A Equipe Void é obrigada a recuar, mas consegue escapar levando o Blue Orb.
+
+Após a fuga, Star explica que o objeto é um artefato lendário ligado a Kyogre. Ela não sabe por que a Equipe Void o deseja, mas seu conhecimento sobre as lendas é suficiente para saber que o artefato não deveria permanecer nas mãos da organização.
 
 Esse evento estabelece desde cedo que:
 
 - a Equipe Void está procurando artefatos específicos;
 - seus membros mais importantes possuem Pokémon muito mais poderosos que os treinadores iniciantes;
-- Professora Star conhece mais sobre esses artefatos do que revela inicialmente;
+- Professora Star possui conhecimento prévio sobre lendas e artefatos lendários;
 - Star possui ligação direta com Victini;
 - a organização está disposta a agir abertamente para obter o que procura.
 
-A natureza exata do Orbe Azul e sua ligação com os planos maiores da organização ainda serão detalhadas.
+A função do Blue Orb dentro do plano maior da Equipe Void ainda será detalhada.
 
 ## Estrutura narrativa inicial
 
