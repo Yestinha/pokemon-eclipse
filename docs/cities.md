@@ -141,6 +141,34 @@ Star admite que **não sabe por que a Equipe Void deseja o artefato**, mas deixa
 
 Essa conversa é a primeira confirmação para Sun/Moon, Charlie e Lina de que as ações da Void estão diretamente relacionadas a elementos lendários.
 
+## Conselho de Star e presente ao trio
+
+Depois de explicar a importância do Blue Orb, Professora Star diz aos três que ainda são treinadores iniciantes e que, naquele momento, não possuem força suficiente para enfrentar ameaças do nível da Equipe Void.
+
+Em vez de abandonar o sonho da Liga para perseguir a organização imediatamente, Star aconselha Sun/Moon, Charlie e Lina a **continuarem sua jornada, conquistarem experiência e se tornarem treinadores mais poderosos**.
+
+Ela afirma que, quando estiverem mais fortes, poderão realmente ajudar caso a ameaça da Void continue crescendo. Por enquanto, devem manter o foco no objetivo que já tinham diante deles: seguir rumo ao primeiro Ginásio.
+
+Como agradecimento pela ajuda na Praia Lactia, Star presenteia **cada um dos três com um Eevee**:
+
+- Sun/Moon recebe um Eevee;
+- Charlie recebe um Eevee, que futuramente evoluirá para **Umbreon**;
+- Lina recebe um Eevee, que futuramente evoluirá para **Espeon**.
+
+A evolução futura do Eevee de Sun/Moon ainda não foi definida.
+
+## Separação do trio
+
+Depois da conversa com Star, os três decidem continuar em direção à cidade do **primeiro Ginásio**.
+
+Charlie e Lina concluem, porém, que a partir daquele momento será melhor cada um seguir o próprio caminho por um tempo.
+
+A ideia não representa uma ruptura da amizade. Pelo contrário: os três querem desenvolver sua própria força, formar suas equipes e viver experiências diferentes.
+
+Eles combinam que voltarão a se reunir quando for necessário — especialmente se precisarem ajudar contra a Equipe Void no futuro.
+
+Esse momento encerra a fase inicial em que os três viajam lado a lado e estabelece a dinâmica de encontros recorrentes ao longo da campanha.
+
 ## Resultado do evento
 
 Ao final:
@@ -153,6 +181,10 @@ Ao final:
 - Vladimir e os soldados da Equipe Void escapam com o Blue Orb;
 - Star confirma que o Blue Orb é um artefato lendário ligado a Kyogre;
 - Star não sabe ainda qual é o objetivo da Void com o artefato;
+- Star aconselha o trio a continuar a jornada e ficar mais forte;
+- Sun/Moon, Charlie e Lina recebem um Eevee cada;
+- Charlie e Lina decidem seguir caminhos separados para desenvolver a própria força;
+- o próximo grande objetivo passa a ser chegar à cidade do primeiro Ginásio;
 - o mistério sobre o objetivo da organização aumenta.
 
 ## Pendências
@@ -183,6 +215,13 @@ Ao final:
 - [ ] Definir golpes da primeira batalha Void
 - [ ] Escrever diálogos finais das cenas
 - [x] Definir explicação pós-batalha de Star sobre o Blue Orb
+- [x] Star orienta o trio a continuar a jornada e se fortalecer
+- [x] Star presenteia os três com um Eevee
+- [x] Eevee de Charlie evoluirá para Umbreon
+- [x] Eevee de Lina evoluirá para Espeon
+- [x] Charlie e Lina passam a viajar separadamente de Sun/Moon
+- [x] Próximo objetivo narrativo: seguir para a cidade do primeiro Ginásio
+- [ ] Definir evolução futura do Eevee de Sun/Moon
 - [ ] Definir NPCs e falas ambientais
 - [ ] Criar mapa da cidade
 - [ ] Criar mapa da praia
