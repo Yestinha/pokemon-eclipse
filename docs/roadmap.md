@@ -8,8 +8,8 @@ Este documento acompanha a evolução do projeto em etapas pequenas e verificáv
 - [x] Adicionar pokeemerald-expansion
 - [x] Criar README inicial
 - [x] Criar documentação de planejamento
-- [ ] Configurar ambiente de desenvolvimento
-- [ ] Compilar a ROM de teste
+- [x] Configurar ambiente de desenvolvimento
+- [x] Compilar a ROM de teste
 
 ## Fase 1 — Conceito
 
@@ -47,7 +47,7 @@ Este documento acompanha a evolução do projeto em etapas pequenas e verificáv
 
 ## Fase 2A — Protótipo do prólogo
 
-- [ ] Compilar a base atual
+- [x] Compilar a base atual
 - [ ] Implementar Terrae
 - [ ] Implementar escolha do inicial e rivais
 - [ ] Implementar Rota Celestial 1
