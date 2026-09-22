@@ -39,9 +39,9 @@ O desenvolvimento será feito em pequenas entregas jogáveis.
 
 ### Etapa 0 — Ambiente
 
-- [ ] Configurar ambiente de desenvolvimento
-- [ ] Compilar a base atual sem alterações
-- [ ] Abrir a ROM compilada em um emulador
+- [x] Configurar ambiente de desenvolvimento
+- [x] Compilar a base atual sem alterações
+- [x] Abrir a ROM compilada em um emulador
 - [ ] Instalar e abrir Porymap
 - [ ] Fazer um commit de checkpoint após a build funcionar
 
