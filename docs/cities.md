@@ -67,7 +67,7 @@ O jogador recupera o controle e fica livre para explorar Astrid antes de continu
 - criar curiosidade sem revelar imediatamente qual é o problema;
 - liberar o primeiro momento de exploração livre da cidade com uma missão ativa.
 
-# Praia de Astrid — nome a definir
+# Praia Lactia
 
 A praia conectada a Astrid será o local do primeiro confronto direto entre o grupo e a **Equipe Void**.
 
@@ -86,16 +86,18 @@ Ela ordena que eles deixem o local e avisa que, caso se recusem, serão retirado
 A formação da Equipe Void na cena será:
 
 - 1 soldado discutindo diretamente com Professora Star;
-- 1 membro de patente superior próximo à água;
-- 2 soldados ao lado do superior.
+- **Vladimir**, membro de patente intermediária, próximo à água;
+- 2 soldados ao lado de Vladimir.
+
+Vladimir não é um administrador ou personagem de elite da organização. Ele está apenas **duas classes acima dos soldados de menor patente**, servindo para apresentar desde cedo que a Equipe Void possui uma hierarquia interna.
 
 ## Descoberta do Orbe Azul
 
-Durante o confronto, o membro de patente superior anuncia que encontrou o que procuravam: um **Orbe Azul**.
+Durante o confronto, Vladimir anuncia que encontrou o que procuravam: o **Orbe Azul (Blue Orb)**, artefato lendário associado a **Kyogre**.
 
-Ao ver o objeto, Professora Star demonstra imediatamente desespero, deixando claro que reconhece sua importância.
+Ao ver o objeto, Professora Star demonstra imediatamente desespero. Ela conhece as lendas relacionadas ao artefato e entende que algo dessa importância não deveria estar nas mãos da Equipe Void.
 
-A natureza exata do Orbe Azul e o motivo de Star reconhecê-lo serão aprofundados posteriormente.
+Star ainda não sabe **por que** a organização quer o Blue Orb, apenas que permitir que o levem representa um risco.
 
 ## Primeira batalha contra a Equipe Void
 
@@ -105,15 +107,15 @@ Os dois assumem os outros soldados, enquanto o jogador enfrenta o soldado que es
 
 ### Equipe do soldado
 
-- Poochyena
-- Pawniard
-- Yamask
+- Poochyena — **nível 6**
+- Pawniard — **nível 6**
+- Yamask — **nível 7**
 
-Os níveis e golpes serão definidos durante o balanceamento.
+Os golpes serão definidos durante o balanceamento.
 
 ## Aggron
 
-Após a derrota do primeiro soldado, o membro de patente superior avança e envia um **Aggron**.
+Após a derrota do primeiro soldado, **Vladimir** avança e envia um **Aggron**.
 
 Nesse ponto da história, Sun/Moon, Charlie e Lina ainda não possuem força suficiente para enfrentá-lo.
 
@@ -125,9 +127,19 @@ Sem outra saída, Professora Star pede ajuda.
 
 Um **Victini** salta de uma de suas Poké Bolas por iniciativa própria e entra no confronto.
 
-Victini utiliza seu **golpe assinatura** contra Aggron, derrotando-o e forçando os membros da Equipe Void a recuar.
+Victini utiliza **V-create** contra Aggron, derrotando-o e forçando os membros da Equipe Void a recuar.
 
 Apesar disso, o grupo inimigo consegue fugir levando o **Orbe Azul**.
+
+## Conversa após a fuga
+
+Depois que a Equipe Void escapa, Professora Star explica ao trio que o objeto levado por eles é um **artefato lendário**.
+
+Ela identifica o objeto como o **Blue Orb**, ligado às lendas de Kyogre.
+
+Star admite que **não sabe por que a Equipe Void deseja o artefato**, mas deixa claro que conhece o suficiente sobre as antigas lendas para saber que ele não deveria estar nas mãos da organização.
+
+Essa conversa é a primeira confirmação para Sun/Moon, Charlie e Lina de que as ações da Void estão diretamente relacionadas a elementos lendários.
 
 ## Resultado do evento
 
@@ -137,7 +149,10 @@ Ao final:
 - Charlie e Lina também enfrentam membros da organização;
 - o jogador presencia pela primeira vez a diferença de força entre treinadores iniciantes e membros mais perigosos da Void;
 - Professora Star revela possuir um Victini;
-- a Equipe Void escapa com o Orbe Azul;
+- Victini utiliza **V-create**;
+- Vladimir e os soldados da Equipe Void escapam com o Blue Orb;
+- Star confirma que o Blue Orb é um artefato lendário ligado a Kyogre;
+- Star não sabe ainda qual é o objetivo da Void com o artefato;
 - o mistério sobre o objetivo da organização aumenta.
 
 ## Pendências
@@ -160,12 +175,14 @@ Ao final:
 - [x] Oficial de patente superior usa Aggron
 - [x] Victini intervém e derrota Aggron
 - [x] Equipe Void foge com o Orbe Azul
-- [ ] Definir nome oficial da praia
-- [ ] Definir identidade/patente do membro superior
-- [ ] Definir natureza e história do Orbe Azul
-- [ ] Definir por que Star reconhece imediatamente o orbe
-- [ ] Definir níveis e golpes da primeira batalha Void
+- [x] Nome da praia: **Lactia**
+- [x] Membro superior: **Vladimir**, duas classes acima dos soldados comuns
+- [x] Orbe Azul: **Blue Orb**, artefato lendário associado a Kyogre
+- [x] Star reconhece o Blue Orb por seu conhecimento sobre lendas
+- [x] Níveis da primeira batalha Void: Poochyena 6, Pawniard 6, Yamask 7
+- [ ] Definir golpes da primeira batalha Void
 - [ ] Escrever diálogos finais das cenas
+- [x] Definir explicação pós-batalha de Star sobre o Blue Orb
 - [ ] Definir NPCs e falas ambientais
 - [ ] Criar mapa da cidade
 - [ ] Criar mapa da praia
