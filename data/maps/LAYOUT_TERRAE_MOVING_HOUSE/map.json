@@ -1,7 +1,7 @@
 {
   "id": "MAP_LAYOUT_TERRAE_MOVING_HOUSE",
   "name": "LAYOUT_TERRAE_MOVING_HOUSE",
-  "layout": "LAYOUT_TERRAE_PROFESSOR_STAR_LAB",
+  "layout": "LAYOUT_LAYOUT_TERRAE_MOVING_HOUSE",
   "music": "MUS_DUMMY",
   "region_map_section": "MAPSEC_ABANDONED_SHIP",
   "requires_flash": false,
@@ -14,7 +14,16 @@
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
   "connections": null,
   "object_events": [],
-  "warp_events": [],
+  "warp_events": [
+    {
+      "warp_id": "EXIT_TO_TERRAE",
+      "x": 8,
+      "y": 11,
+      "elevation": 0,
+      "dest_map": "MAP_TERRAE",
+      "dest_warp_id": "3"
+    }
+  ],
   "coord_events": [],
   "bg_events": []
 }

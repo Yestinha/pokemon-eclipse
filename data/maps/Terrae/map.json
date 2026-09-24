@@ -1,7 +1,7 @@
 {
   "id": "MAP_TERRAE",
   "name": "Terrae",
-  "layout": "LAYOUT_LITTLEROOT_TOWN_MAYS_HOUSE_1F",
+  "layout": "LAYOUT_TERRAE",
   "music": "MUS_DUMMY",
   "region_map_section": "MAPSEC_ABANDONED_SHIP",
   "requires_flash": false,
@@ -14,7 +14,48 @@
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
   "connections": null,
   "object_events": [],
-  "warp_events": [],
+  "warp_events": [
+    {
+      "warp_id": "WARP_TO_PLAYERS_HOUSE",
+      "x": 25,
+      "y": 5,
+      "elevation": 0,
+      "dest_map": "MAP_TERRAE_PLAYERHOUSE_1F",
+      "dest_warp_id": "0"
+    },
+    {
+      "warp_id": "WARP_TO_LINAS_HOUSE",
+      "x": 6,
+      "y": 5,
+      "elevation": 0,
+      "dest_map": "MAP_TERRAE_LINAS_HOUSE",
+      "dest_warp_id": "1"
+    },
+    {
+      "warp_id": "WARP_TO_CHARLIES_HOUSE",
+      "x": 6,
+      "y": 13,
+      "elevation": 0,
+      "dest_map": "MAP_LAYOUT_TERRAE_CHARLIES_HOUSE",
+      "dest_warp_id": "2"
+    },
+    {
+      "warp_id": "WARP_TO_MOVING_HOUSE",
+      "x": 6,
+      "y": 20,
+      "elevation": 0,
+      "dest_map": "MAP_LAYOUT_TERRAE_MOVING_HOUSE",
+      "dest_warp_id": "3"
+    },
+    {
+      "warp_id": "WARP_TO_PROFESSOR_STAR_LAB",
+      "x": 27,
+      "y": 19,
+      "elevation": 0,
+      "dest_map": "MAP_TERRAE_PROFESSOR_STAR_LAB",
+      "dest_warp_id": "4"
+    }
+  ],
   "coord_events": [],
   "bg_events": []
 }

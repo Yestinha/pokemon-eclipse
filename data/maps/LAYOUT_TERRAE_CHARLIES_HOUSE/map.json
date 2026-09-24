@@ -14,7 +14,16 @@
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
   "connections": null,
   "object_events": [],
-  "warp_events": [],
+  "warp_events": [
+    {
+      "warp_id": "EXIT_TO_TERRAE",
+      "x": 9,
+      "y": 11,
+      "elevation": 0,
+      "dest_map": "MAP_TERRAE",
+      "dest_warp_id": "2"
+    }
+  ],
   "coord_events": [],
   "bg_events": []
 }
