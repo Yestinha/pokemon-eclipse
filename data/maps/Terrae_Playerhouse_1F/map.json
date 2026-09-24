@@ -1,7 +1,7 @@
 {
-  "id": "MAP_TERRAE",
-  "name": "Terrae",
-  "layout": "LAYOUT_LITTLEROOT_TOWN_MAYS_HOUSE_1F",
+  "id": "MAP_TERRAE_PLAYERHOUSE_1F",
+  "name": "Terrae_Playerhouse_1F",
+  "layout": "LAYOUT_TERRAE_PLAYERHOUSE_1F",
   "music": "MUS_DUMMY",
   "region_map_section": "MAPSEC_ABANDONED_SHIP",
   "requires_flash": false,
@@ -14,7 +14,16 @@
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
   "connections": null,
   "object_events": [],
-  "warp_events": [],
+  "warp_events": [
+    {
+      "warp_id": "WARP_EXIT_TERRAE",
+      "x": 6,
+      "y": 9,
+      "elevation": 0,
+      "dest_map": "MAP_TERRAE",
+      "dest_warp_id": "0"
+    }
+  ],
   "coord_events": [],
   "bg_events": []
 }

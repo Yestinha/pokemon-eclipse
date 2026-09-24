@@ -1,7 +1,7 @@
 {
-  "id": "MAP_TERRAE",
-  "name": "Terrae",
-  "layout": "LAYOUT_LITTLEROOT_TOWN_MAYS_HOUSE_1F",
+  "id": "MAP_TERRAE_LINAS_HOUSE",
+  "name": "TERRAE_LINAS_HOUSE",
+  "layout": "LAYOUT_TERRAE_LINAS_HOUSE",
   "music": "MUS_DUMMY",
   "region_map_section": "MAPSEC_ABANDONED_SHIP",
   "requires_flash": false,

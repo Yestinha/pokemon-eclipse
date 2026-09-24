@@ -1,7 +1,7 @@
 {
-  "id": "MAP_TERRAE",
-  "name": "Terrae",
-  "layout": "LAYOUT_LITTLEROOT_TOWN_MAYS_HOUSE_1F",
+  "id": "MAP_LAYOUT_TERRAE_MOVING_HOUSE",
+  "name": "LAYOUT_TERRAE_MOVING_HOUSE",
+  "layout": "LAYOUT_TERRAE_PROFESSOR_STAR_LAB",
   "music": "MUS_DUMMY",
   "region_map_section": "MAPSEC_ABANDONED_SHIP",
   "requires_flash": false,

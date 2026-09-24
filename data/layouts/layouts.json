@@ -9333,6 +9333,56 @@
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/Terrae/border.bin",
       "blockdata_filepath": "data/layouts/Terrae/map.bin"
+    },
+    {
+      "id": "LAYOUT_TERRAE_PLAYERHOUSE_1F",
+      "name": "Terrae_Playerhouse_1F_Layout",
+      "width": 12,
+      "height": 10,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_BrendansMaysHouse",
+      "border_filepath": "data/layouts/Terrae_Playerhouse_1F/border.bin",
+      "blockdata_filepath": "data/layouts/Terrae_Playerhouse_1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_TERRAE_PROFESSOR_STAR_LAB",
+      "name": "TerraeProfessorStarLab_Layout",
+      "width": 12,
+      "height": 10,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_Lab",
+      "border_filepath": "data/layouts/TerraeProfessorStarLab/border.bin",
+      "blockdata_filepath": "data/layouts/TerraeProfessorStarLab/map.bin"
+    },
+    {
+      "id": "LAYOUT_LAYOUT_TERRAE_CHARLIES_HOUSE",
+      "name": "LAYOUT_TERRAE_CHARLIES_HOUSE_Layout",
+      "width": 12,
+      "height": 12,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_BrendansMaysHouse",
+      "border_filepath": "data/layouts/LAYOUT_TERRAE_CHARLIES_HOUSE/border.bin",
+      "blockdata_filepath": "data/layouts/LAYOUT_TERRAE_CHARLIES_HOUSE/map.bin"
+    },
+    {
+      "id": "LAYOUT_LAYOUT_TERRAE_MOVING_HOUSE",
+      "name": "LAYOUT_TERRAE_MOVING_HOUSE_Layout",
+      "width": 12,
+      "height": 12,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_BrendansMaysHouse",
+      "border_filepath": "data/layouts/LAYOUT_TERRAE_MOVING_HOUSE/border.bin",
+      "blockdata_filepath": "data/layouts/LAYOUT_TERRAE_MOVING_HOUSE/map.bin"
+    },
+    {
+      "id": "LAYOUT_TERRAE_LINAS_HOUSE",
+      "name": "TERRAE_LINAS_HOUSE_Layout",
+      "width": 12,
+      "height": 12,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_BrendansMaysHouse",
+      "border_filepath": "data/layouts/TERRAE_LINAS_HOUSE/border.bin",
+      "blockdata_filepath": "data/layouts/TERRAE_LINAS_HOUSE/map.bin"
     }
   ]
 }

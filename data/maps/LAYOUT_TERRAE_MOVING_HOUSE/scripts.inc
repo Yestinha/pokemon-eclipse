@@ -1,0 +1,2 @@
+LAYOUT_TERRAE_MOVING_HOUSE_MapScripts::
+	.byte 0

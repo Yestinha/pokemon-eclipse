@@ -1740,3 +1740,13 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 	.include "data/scripts/wild_encounter.inc"
 
 	.include "data/maps/Terrae/scripts.inc"
+
+	.include "data/maps/Terrae_Playerhouse_1F/scripts.inc"
+
+	.include "data/maps/LAYOUT_TERRAE_MOVING_HOUSE/scripts.inc"
+
+	.include "data/maps/TERRAE_LINAS_HOUSE/scripts.inc"
+
+	.include "data/maps/LAYOUT_TERRAE_CHARLIES_HOUSE/scripts.inc"
+
+	.include "data/maps/TerraeProfessorStarLab/scripts.inc"

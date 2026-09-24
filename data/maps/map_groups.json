@@ -134,7 +134,12 @@
     "Underwater_Route129",
     "Underwater_Route105",
     "Underwater_Route125",
-    "Terrae"
+    "Terrae",
+    "Terrae_Playerhouse_1F",
+    "TerraeProfessorStarLab",
+    "TERRAE_LINAS_HOUSE",
+    "LAYOUT_TERRAE_CHARLIES_HOUSE",
+    "LAYOUT_TERRAE_MOVING_HOUSE"
   ],
   "gMapGroup_IndoorLittleroot": [
     "LittlerootTown_BrendansHouse_1F",

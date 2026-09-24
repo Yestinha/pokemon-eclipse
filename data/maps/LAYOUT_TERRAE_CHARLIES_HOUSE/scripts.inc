@@ -1,0 +1,2 @@
+LAYOUT_TERRAE_CHARLIES_HOUSE_MapScripts::
+	.byte 0
