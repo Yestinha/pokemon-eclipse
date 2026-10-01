@@ -191,3 +191,17 @@ Enquanto a Etapa 1 estiver ativa:
 É permitido criar sistemas genéricos apenas quando eles forem utilizados por algum requisito de Terrae.
 
 Não implementar antecipadamente sistemas apenas porque poderão ser úteis no restante do jogo.
+
+
+---
+
+## Documentos técnicos da Etapa 1
+
+O desenvolvimento de Terrae deve seguir também:
+
+- [Especificação de Terrae](terrae-godot-spec.md)
+- [Blueprint técnico de Terrae](terrae-technical-blueprint.md)
+- [Pipeline de arte e assets](terrae-asset-pipeline.md)
+- [Estrutura inicial do projeto Godot](godot-project-structure.md)
+
+Esses documentos detalham apenas decisões necessárias à Etapa 1 e não autorizam expansão de escopo.
