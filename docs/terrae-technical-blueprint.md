@@ -412,14 +412,25 @@ Devem ser cenas independentes sempre que possível para poderem ser ativadas, re
 
 ### M1-A — Escala aprovada
 
-- [ ] viewport de teste;
-- [ ] grade de 32 px;
-- [ ] Player temporário;
-- [ ] uma árvore;
-- [ ] uma casa;
-- [ ] trecho de caminho;
-- [ ] mockup do laboratório;
-- [ ] escala visual aprovada.
+- [x] viewport de teste;
+- [x] grade de 32 px;
+- [x] Player temporário;
+- [x] uma árvore;
+- [x] uma casa;
+- [x] trecho de caminho;
+- [x] mockup do laboratório;
+- [x] escala visual aprovada.
+
+**Referência aprovada para o início da produção:**
+
+- viewport lógico: 640×360;
+- grade de organização: 32×32;
+- Player de referência: ~32×56;
+- árvore de referência: ~64×96;
+- casa de referência: ~192×128;
+- laboratório de referência: ~288×160.
+
+Esses valores são referências de composição, não limites para a arte final.
 
 ### M1-B — Mapa bruto
 
